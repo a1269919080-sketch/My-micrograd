@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06ddfc5-ca99-46e4-8835-a873c8b61e0b" name="更改" comment="" />
+    <list default="true" id="a06ddfc5-ca99-46e4-8835-a873c8b61e0b" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/mlp.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlp.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -25,22 +30,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.corr2d.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mlp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mlpeasy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rnn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rnn2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sec_model_selection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.softmax.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yhw/Documents/PythonCode/softmax&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.corr2d.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mlp.executor": "Run",
+    "Python.mlpeasy.executor": "Run",
+    "Python.rnn.executor": "Run",
+    "Python.rnn2.executor": "Run",
+    "Python.sec_model_selection.executor": "Run",
+    "Python.softmax.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/yhw/Documents/PythonCode/softmax",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.venv" />
@@ -108,5 +115,16 @@
       <updated>1764489104546</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

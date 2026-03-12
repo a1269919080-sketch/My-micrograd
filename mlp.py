@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 
 num_inputs, num_outputs, num_hiddens = 784, 10, 256
 
+#修改过后的版本
+
 W1 = nn.Parameter(torch.randn(
     num_inputs, num_hiddens, requires_grad=True) * 0.01)
 b1 = nn.Parameter(torch.zeros(num_hiddens, requires_grad=True))
